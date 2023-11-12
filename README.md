@@ -1,4 +1,4 @@
-welcome my shecodes projects repository!
+welcome to my shecodes projects repository!
 
 This is a collection of coding projects I've worked on as the part of shecodes program, it showcase my progress in web development and coding skills.
 
